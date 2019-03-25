@@ -1,2 +1,1 @@
-# news
-PWA News
+Demo PWA app.
