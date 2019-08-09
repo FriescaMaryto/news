@@ -11,7 +11,7 @@ async function getNews() {
   const json = await res.json();
 
   const main = document.querySelector('main');
-
+//test
   json.articles.forEach(article => {
     const el = document.createElement('news-article');
     el.article = article;
